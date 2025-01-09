@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
+    <img alt="Proffy" title="Proffy" src="/images/logo2.svg" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/proffy.png" width="100%">
+  <img alt="Proffy" src="/images/proffy.png" width="100%">
 </p>
 
 ## 💻 Projeto
